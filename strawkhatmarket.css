@@ -1,0 +1,44 @@
+header {
+    background-color: #e58c4e;
+    padding: 7%;
+}
+
+main {
+    background-image: url("https://i.pinimg.com/736x/bf/1f/1a/bf1f1a76b02772426038c1b4cd727d03.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.background {
+    
+}
+
+.logo {
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.main {
+    padding-top: 5%;
+    color: #e58c4e;
+}
+
+.main1{
+    border-style: solid;
+    background-color: #e58c4e;
+    border-left: none;
+    border-right: none;
+}
+
+.main2{
+    background-color: white;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+}
+
+.footer {
+    
+}
